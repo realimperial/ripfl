@@ -1,3 +1,14 @@
+# Database
+
+Modelagem de dados oficial do RIPFL.
+
+Conteúdo previsto:
+
+- database.md
+- schema.sql
+- erd.png
+- migrations
+
 # ripfl
 Real Imperial Protocolo Financeiro Lusitano
 /
