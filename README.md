@@ -10,6 +10,7 @@ Exemplos:
 - Grok
 - ChatGPT
 - Perplexity
+- Meta
 - Copilot
 
 Esta área serve apenas para comparação e auditoria das propostas.
