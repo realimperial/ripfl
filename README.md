@@ -1,3 +1,17 @@
+# Assistentes
+
+Material produzido pelos diferentes assistentes utilizados durante a concepção do projeto.
+
+Exemplos:
+
+- DeepSeek
+- Gemini
+- Claude
+- Grok
+- ChatGPT
+
+Esta área serve apenas para comparação e auditoria das propostas.
+
 # ripfl
 Real Imperial Protocolo Financeiro Lusitano
 /
