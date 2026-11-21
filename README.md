@@ -1,3 +1,14 @@
+# Technical Documentation
+
+Documentação técnica do projeto RIPFL.
+
+Conteúdo previsto:
+
+- architecture.md
+- database.md
+- api.md
+- roadmap.md
+
 # ripfl
 Real Imperial Protocolo Financeiro Lusitano
 /
