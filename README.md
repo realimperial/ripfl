@@ -9,6 +9,8 @@ Exemplos:
 - Claude
 - Grok
 - ChatGPT
+- Perplexity
+- Copilot
 
 Esta área serve apenas para comparação e auditoria das propostas.
 
