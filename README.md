@@ -1,3 +1,15 @@
+# Branding
+
+Identidade visual oficial do projeto RIPFL.
+
+Conteúdo:
+
+- Logotipos
+- Manual de identidade visual
+- Paleta de cores
+- Aplicações institucionais
+- Elementos de comunicação
+
 # ripfl
 Real Imperial Protocolo Financeiro Lusitano
 /
