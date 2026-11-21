@@ -1,3 +1,14 @@
+# API
+
+Documentação da API RIPFL.
+
+Conteúdo previsto:
+
+- endpoints
+- autenticação
+- exemplos
+- OpenAPI
+
 # ripfl
 Real Imperial Protocolo Financeiro Lusitano
 /
