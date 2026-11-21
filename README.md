@@ -1,3 +1,12 @@
+# Whitepaper
+
+Contém as versões oficiais do Whitepaper RIPFL.
+
+Documento principal:
+
+- RIPFL Protocol v1.0 Alpha
+
+
 # ripfl
 Real Imperial Protocolo Financeiro Lusitano
 /
