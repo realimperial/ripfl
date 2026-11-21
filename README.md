@@ -1,3 +1,9 @@
+# Canonical
+
+Implementações consideradas oficiais do protocolo RIPFL.
+
+Somente código aprovado deve ser armazenado nesta área.
+
 # ripfl
 Real Imperial Protocolo Financeiro Lusitano
 /
